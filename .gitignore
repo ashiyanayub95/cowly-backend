@@ -1,0 +1,27 @@
+# Python cache and compiled files
+__pycache__/
+*.pyc
+
+
+# Virtual environment folders
+env/
+venv/
+
+# IDE settings
+.vscode/
+.idea/
+
+# Firebase private key (if downloaded)
+jsonkey.json
+
+
+# Firebase configuration files
+firebase_config.json
+
+
+.env*
+# Local configuration files
+
+logs
+app/logs/
+# Logs

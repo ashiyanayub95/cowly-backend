@@ -1,0 +1,14 @@
+[
+  "Age",
+  "Milk_Production_Liters",
+  "Temperature_C",
+  "Heart_Rate_BPM",
+  "Respiratory_Rate_BPM",
+  "Appetite_Score",
+  "Mobility_Score",
+  "Isolated",
+  "Breed_Brown Swiss",
+  "Breed_Guernsey",
+  "Breed_Holstein",
+  "Breed_Jersey"
+]
